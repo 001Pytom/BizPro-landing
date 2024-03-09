@@ -27,7 +27,6 @@ img {
 .group2 {
   position: absolute;
   right: 0;
-  /* z-index: 5; */
 }
 
 .group3 {
@@ -647,5 +646,5 @@ footer {
   }
   .popular-packages-texts h1 {
     font-size: 25px;
-  }
+  } 
 }
